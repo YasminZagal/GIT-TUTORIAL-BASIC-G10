@@ -5,3 +5,5 @@ Esta linea rrepresenta la modificiación del archivo README.md delde GitHub.com
 Aprendimos que el archivo README.md es compatible con [MarkDown](https://stackedit.io/app#)
 
 Esta linea es el segundo commt realizado via web. Mi perfil de GitHub es el siguiente [Yasmin Zagal](https://stackedit.io/app#)
+
+Esta linea es el primer commt realizado por terminal. Este reprositorio también tambien se clonó por terminal. 
